@@ -1,0 +1,4 @@
+Para ejecutar el programa crear un proyecto en eclipse y rellenar la carpeta src con las carpetas aqui incluidas.
+Añadir la librería JGA 0.8.1.
+Abrir InicioJugar.java y decirla a Eclipse que lo ejecute como aplicación.
+Alexander Mariel y Egoitz Puerta.

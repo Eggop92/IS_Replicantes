@@ -1,0 +1,10 @@
+Proyecto Replicantes.
+
+Proyecto para la asignatura de Ingeniería de Software del grado en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Lenguajes:
+Java
+
+Autores:
+Alexander Mariel
+Egoitz Puerta
